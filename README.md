@@ -73,7 +73,6 @@
 <a href="https://hicoldcat.com"><img src="https://img.shields.io/badge/-Blog-000?logo=hugo" alt="Blog"></a>
 <a href="https://github.com/hicoldcat"><img src="https://img.shields.io/badge/-GitHub-000?logo=GitHub" alt="GitHub"></a>
 <a href="https://zhihu.com/people/hicoldcat"><img src="https://img.shields.io/badge/-知乎-000?logo=zhihu" alt="知乎"></a>
-  <img src="https://img.shields.io/badge/-lichao1351290389-black?logo=wechat" alt="Wechat: lichao1351290389">
 </p>
 
 **浏览量**
