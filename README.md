@@ -65,6 +65,11 @@
 <a href="mailto:hicoldcat@foxmail.com"><img src="https://img.shields.io/badge/-hicoldcat@foxmail.com-000?logo=Gmail" alt="Mail"></a>
 </p>
 
+**公众号**
+<p>
+  <img src="./assets/zzcjlzr.png" width="360"></img>
+</p>
+
 **浏览量**
 
 <p>
@@ -78,7 +83,4 @@
   </a>
 </p>
 
-**公众号**
-<p>
-  <img src="./assets/zzcjlzr.png" width="360"></img>
-</p>
+
