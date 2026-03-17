@@ -2,11 +2,24 @@
 **简介**
 
 ![About me](https://img.shields.io/badge/About%20me-000?&logo=About.me&labelColor=000)<br />
-👨‍💻全栈菜鸟。聚焦前后端、移动/桌面端、AI 和 Web3.0 等新兴技术和自媒体等行业，喜欢玩新技术和造轮子。
+👨‍💻全栈攻城狮。正在探索 AI 和 Web3.0 等新兴技术和自媒体等行业，喜欢玩新技术和造轮子。
 
 **网站**
 
-[![https://hicoldcat.com](https://img.shields.io/badge/-hicoldcat.com-000?&labelColor=000&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAACmlBMVEUAAAAAAAAAAAA2IgslFwclFwclFwcjFgcmFQkjEgk4IAwAAAAkFAiuayP/sjv/qTr/qjn/rTf/rTf/qTr/8RT/sDyuayMkFQgSCwTliy//zyn/nzb2lTP83QvxkjLykzHxkjLxkTPxkjL3lTP/ri7/vTLnji8UDARCKQ3/vD//xiT/nDf/mzf/mzf/nzX/nTb/5hD/nTb/oDT/ri3/si7/vj5DKQ0AAABwShWWZByOXhyWogCPXxuPYxmPYBuMXRuPYBuPYxmPYhqMYBqWZRxwSxVuHiKQJSyHHyuHHiyHHyuHIiqHIiqIIiqHIiqKIiuIIiqQJSxuHiE9FBL/W1D/X1T/XVL/XVL/XVL/XVL/XVL/XVL/X1T/XFE9FBIPAAICAAAAAAAAAAAAAAACAAAPAAIgHQv/5Vv//3T//3H//2z//2f//2X//2X//2X//2X//2X//2j//27//3T/5lsgHQsYGgk2NhMdJAsWHQhlXSP/9GL/3Fn91Vb91Vb/1lf/4Vv//WUOFQYdJAs1NhMYGgkiDAq7UzmuTDWuSzVsIyBrWCT/92P/21n91Vb/4lv/2lgpGQ2uTDUiDAoRCAUiCgkQAAEKAAANAAB5Wib/72H/5l3/92UNAAAQAAEjCgoRCAUAAABfwT6H9k+H7U2H8E1IozNkXCX/5F4cKg9760uG7Exfwj4AAAA8JQzNeSdsQhUAAgFx5EsTSRgADQRdOxE7KxEYIQkQTBlx5EsABAFsQRXQeic8JQzKfCj/xD//wj4vDATyhiv/wT7/vj3/wT3yhysvDAP/xD/JfCg8JQwwHgo5JAs1IQspGQgpGQgzIAo5JAsvHgk2IgsAAAD/oTT/XVL/XVKqRDO7UzmH91D/vjz/wj7///+OfXNXAAAA1XRSTlMAG1H38ffx9fH28nPA8ffx9/Hx8vLz8cCH8fLy9/D38PXx9/P78vaI8fL38vfx9/Hw8fXy8vHyONr38PPx9/Hz8fHx8/Ha2vfx9/H38ffx9ffx2sDx9/H39/H39/f6wMD38fP38cCH9fjz9fX39fHx9vL19/iHh/Hx8fHx8/Hx8fHy8/H3h/Hx9/Hz8ffx8/H18ff3h/H38ffz8ffx9/Hzh8Dx8ffx8fH68fby88DA8fHx8/Hx8fHx8vLz8fXA8ffx9/H38ff18ff3wPH38ffx9fH38VSJUrRcAAAAAWJLR0TdcGezIQAAARtJREFUGNMBEAHv/gAAAAECAwQFBgcICQoCAQAAAAALDA0ODxAREhMUFRYXCwAAGBkaGxwdHh8gISIjJCUmJwAoKSorLC0uLzAx1TIzNDU2ADc4OTo7PD0+P0BBQkNERTcAN0ZHSElKS0xNTk9OUFFSNwBTVFVWV1ZYWdZaW1rXXF1eAAFfYGFiYWNhYmFhYWJkZQEAZmdoaWprbG1ub3BxcnN0dQB2d3h5ent8fX5/gIGCg4SFAIaHiImKi4yNjo+QkdiS2ZMAlJWWl5hhmZqbnGFhnZ6foAABoaKjpKWmp6ipqqvarK0BAK6vsLGys7S1tre4ubq7vL0Arr6/wMHCw8TbxcbH3MjJygABAgPLzM3OBAXP0NHS09QBc9llNuF3broAAAAASUVORK5CYII=)](https://hicoldcat.com)  [![https://w3er.xyz](https://img.shields.io/badge/-w3er.xyz-000?&labelColor=000&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAABYlAAAWJQFJUiTwAAABBklEQVQokZ2Sv0oDQRCHv7275S4mAYOgIKZMK4IWVnaCFvoUSt4ivY3PIXkAm5hOLCS12JiAYGnhn+Rybm7H4vSSk0Nlf9XMznz8ZthRIiI4yHOBAII8SgyEulB8ThI+bJrnda2pBVmPEhHhPYaLHpwcF8DTwQ2j8RuR75OK8GIMvb19qoH+crQWUls60tnmDtuNFUSEw+srXo2hGuj/76iUwleqZMcS1a1wOXxgED5lD5Np7vQreD6MYTWCRgRA+z6GXYHKHyAArQ1ormXx7d2PUSshdqvF4i14gAIQwAqIhVlaBMcKDiaPTPujvHC03qTje9Dtz92Xa7AUAt//6CDnk3MGPwFGYFUBTtBybQAAAABJRU5ErkJggg==)](https://w3er.xyz) 
+[![https://zero2hero.tech](https://img.shields.io/badge/-zero2hero.tech-000?&labelColor=000&logo=data:image/png;base64,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)](https://zero2hero.tech)  [![https://w3er.xyz](https://img.shields.io/badge/-w3er.xyz-000?&labelColor=000&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAABYlAAAWJQFJUiTwAAABBklEQVQokZ2Sv0oDQRCHv7275S4mAYOgIKZMK4IWVnaCFvoUSt4ivY3PIXkAm5hOLCS12JiAYGnhn+Rybm7H4vSSk0Nlf9XMznz8ZthRIiI4yHOBAII8SgyEulB8ThI+bJrnda2pBVmPEhHhPYaLHpwcF8DTwQ2j8RuR75OK8GIMvb19qoH+crQWUls60tnmDtuNFUSEw+srXo2hGuj/76iUwleqZMcS1a1wOXxgED5lD5Np7vQreD6MYTWCRgRA+z6GXYHKHyAArQ1ormXx7d2PUSshdqvF4i14gAIQwAqIhVlaBMcKDiaPTPujvHC03qTje9Dtz92Xa7AUAt//6CDnk3MGPwFGYFUBTtBybQAAAABJRU5ErkJggg==)](https://w3er.xyz)    
+
+**社交**
+
+<p align="left">
+<a href="https://github.com/hicoldcat"><img src="https://img.shields.io/badge/-GitHub-000?logo=GitHub" alt="GitHub"></a>
+<a href="https://zhihu.com/people/hicoldcat"><img src="https://img.shields.io/badge/-知乎-000?logo=zhihu" alt="知乎"></a>
+<a href="mailto:hicoldcat@foxmail.com"><img src="https://img.shields.io/badge/-hicoldcat@foxmail.com-000?logo=Gmail" alt="Mail"></a>
+</p>
+
+**公众号**
+<p>
+  <img src="./assets/zzcjlzr.png" width="360"></img>
+</p>
 
 **框架**
 
@@ -56,19 +69,6 @@
 ![](https://img.shields.io/badge/关注:-green)
 ![RUST](https://img.shields.io/badge/RUST-000?&logo=RUST&labelColor=000)
 ![Python](https://img.shields.io/badge/Python-000?&logo=Python&labelColor=000)
-
-**社交**
-
-<p align="left">
-<a href="https://github.com/hicoldcat"><img src="https://img.shields.io/badge/-GitHub-000?logo=GitHub" alt="GitHub"></a>
-<a href="https://zhihu.com/people/hicoldcat"><img src="https://img.shields.io/badge/-知乎-000?logo=zhihu" alt="知乎"></a>
-<a href="mailto:hicoldcat@foxmail.com"><img src="https://img.shields.io/badge/-hicoldcat@foxmail.com-000?logo=Gmail" alt="Mail"></a>
-</p>
-
-**公众号**
-<p>
-  <img src="./assets/zzcjlzr.png" width="360"></img>
-</p>
 
 **浏览量**
 
