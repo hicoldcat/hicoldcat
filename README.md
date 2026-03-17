@@ -80,11 +80,5 @@
 
 **公众号**
 <p>
-  <img src="./assets/wxgzh.png" width="360"></img>
-</ p>
-
-**微信赞赏**
-
-<p>
-    <img src="https://hicoldcat.oss-cn-hangzhou.aliyuncs.com/img/微信图片_20230103142437.jpg" width="260"></img>
-</ p>
+  <img src="./assets/zzcjlzr.png" width="360"></img>
+</p>
